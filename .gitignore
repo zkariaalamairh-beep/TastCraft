@@ -1,0 +1,17 @@
+﻿# ===== .NET (backend) =====
+bin/
+obj/
+.vs/
+*.user
+appsettings.Production.json
+*.log
+
+# ===== Secrets & env =====
+*.env
+.env.*
+!.env.example
+secrets.json
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
