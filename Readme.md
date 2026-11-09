@@ -5,6 +5,23 @@ workflow, staff management, and customer loyalty features.
 
 **Stack:** ASP.NET Core 8 Web API · SQL Server (EF Core) · React 19 (Vite)
 
+
+
+
+## 🖼️ Screenshots
+
+| Home | Menu with real images |
+|------|----------------------|
+| ![Home](docs/screenshots/home.png) | ![Menu](docs/screenshots/menu.png) |
+
+| Per-item customization | Live cart pricing |
+|------------------------|-------------------|
+| ![Customize](docs/screenshots/customize.png) | ![Cart](docs/screenshots/cart.png) |
+
+| Staff dashboard | Admin menu management |
+|-----------------|-----------------------|
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Admin](docs/screenshots/admin.png) |
+
 ---
 
 ## ✨ Features
